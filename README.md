@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fadel</h1>
 <h3 align="center">Software Engineer</h3>
 
+<h3 align="left">Some about:</h3>
+<p>  
+Muhammad Software Engineer Developing Software Solutions, Web Applications And Planning, Supporting And Maintaining A Company’s Websites And Digital Products. 
+  
+Muhammad always looking for new skills to be acquired, people to be helped and challenges to be accepted, working with others, also he knows how to be engaged with foreigners.
+
+Everybody need to be successful in his life, but he will suffer from every discontinuing things around him, but if he love what he does do sure he will be able to beat this disabilities.
+</p>
+
 - 📫 How to reach me **MuhammadM.Fadel@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
